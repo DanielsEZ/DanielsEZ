@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel G.</h1>
-<h3 align="center">A passionate programmer from Guatemala and into cybersecurity.</h3>
+<h3 align="center">A passionate programmer from Guatemala and into IA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielsez&label=Profile%20views&color=0e75b6&style=flat" alt="danielsez" /> </p>
 
