@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 ###
 
@@ -45,5 +45,13 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Daniels_EZ">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Daniels_EZ&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
